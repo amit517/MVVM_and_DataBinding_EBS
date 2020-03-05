@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "360958365322",
+    "firebase_url": "https://bluetooth-app-b7345.firebaseio.com",
+    "project_id": "bluetooth-app-b7345",
+    "storage_bucket": "bluetooth-app-b7345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360958365322:android:99eff3fa66ecc8572f6773",
+        "android_client_info": {
+          "package_name": "com.example.mvvmanddatabinding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360958365322-keiv4shqqtjj4okghruc4bug3ia2174b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbmShogtux1O80cfA_n7Pq7jdnhOELwSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360958365322-keiv4shqqtjj4okghruc4bug3ia2174b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360958365322:android:8ef8e8a9d2386f4c",
+        "android_client_info": {
+          "package_name": "com.project.bluetoothdataexchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360958365322-omacm2po7q5650s3r50lu3rdaou0jih9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.bluetoothdataexchange",
+            "certificate_hash": "27b4c20b15efe52ce7bd0912a610b6c39518e201"
+          }
+        },
+        {
+          "client_id": "360958365322-keiv4shqqtjj4okghruc4bug3ia2174b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbmShogtux1O80cfA_n7Pq7jdnhOELwSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360958365322-keiv4shqqtjj4okghruc4bug3ia2174b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
