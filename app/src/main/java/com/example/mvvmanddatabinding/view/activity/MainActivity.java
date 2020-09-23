@@ -71,8 +71,8 @@ public class MainActivity extends AppCompatActivity {
     private void init() {
         eventList = new ArrayList<>();
         application = getApplication();
-        viewModelFacotory = new ViewModelFactory(application);
-        eventViewModel = new ViewModelProvider(this, viewModelFacotory).get(EventViewModel.class);
+        //viewModelFacotory = new ViewModelFactory(application);
+        eventViewModel = new ViewModelProvider(this).get(EventViewModel.class);
 
     }
 }
